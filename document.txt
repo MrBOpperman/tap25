@@ -1,0 +1,73 @@
+/* Blue Color */
+
+#03a4ed
+
+
+/* Orange Color */
+
+#ff695f
+
+
+
+/* Original Color */
+
+#f8b81f
+
+
+
+
+
+section.benefits {
+  margin-top: 90px;
+}
+
+.benefits .service-item {
+  border-radius: 5px;
+  padding: 40px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  margin-top: 30px;
+}
+
+.benefits .service-item:hover i {
+  margin-top: 15px;
+}
+
+.benefits .service-item h4 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.benefits .service-item i {
+  transition: all .5s;
+  float: left;
+  font-size: 64px;
+  color: #43ba7f;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+- There are no prerequisites however some exposure Information and Communication Technology (IT), passion for technology and keen interest to pursue a career in IT would be advantageous.
+
+- Training will be delivered online though our Live Virtual Instructor Led Classrooms. Learners can attend the virtual classroom from an location of their choice.
+
+- The Live Virtual Classrooms are led by our internationally certified Virtual Instructors with years of industry experience in Information and Communication Technology (IT).
+
+- You will also have access to the self-paced online learning content where you will have access to network emulator Software, engaging practical LABS and technical assessments.
+
+- You will be able to update your online profile and connect with potential employers once internationally certified.
+
+- You will also learn, network and work with other people through missions, assignment, competitions and conferences.
+
+- Top performing learners will receive first priority for placement opportunities in our network of employers.
